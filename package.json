@@ -1,0 +1,24 @@
+{
+  "name": "atividades-biston",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node main.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuizinSX7/atividades-biston.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuizinSX7/atividades-biston/issues"
+  },
+  "homepage": "https://github.com/GuizinSX7/atividades-biston#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "ts-node": "^10.9.1"
+  }
+}
